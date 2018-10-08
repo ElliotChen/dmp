@@ -3,25 +3,25 @@
 
 ## SRP
 
-[SRP 范例](./solid/src/main/java/tw/elliot/dmp/srp/readme.md)
+[SRP 范例](./solid/src/main/java/tw/elliot/dmp/srp)
 
 ## OCP
 
-[OCP 范例](./solid/src/main/java/tw/elliot/dmp/ocp/readme.md)
+[OCP 范例](./solid/src/main/java/tw/elliot/dmp/ocp)
 
 ## LSP
 
-[LSP 范例](./solid/src/main/java/tw/elliot/dmp/lsp/readme.md)
+[LSP 范例](./solid/src/main/java/tw/elliot/dmp/lsp)
 
 ## ISP
 
-[ISP 范例](./solid/src/main/java/tw/elliot/dmp/isp/readme.md)
+[ISP 范例](./solid/src/main/java/tw/elliot/dmp/isp)
 
 ## DIP
 
-[DIP 范例](./solid/src/main/java/tw/elliot/dmp/dip/readme.md)
+[DIP 范例](./solid/src/main/java/tw/elliot/dmp/dip)
 
 
 ## LOD
 
-[LOD 范例](./solid/src/main/java/tw/elliot/dmp/lod/readme.md)
+[LOD 范例](./solid/src/main/java/tw/elliot/dmp/lod)

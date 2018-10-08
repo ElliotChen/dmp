@@ -14,4 +14,5 @@
 因[Computer](./better/Computer.java)仅释出```close()```，所以开发人员不会误用。
 
 ### 扩展
+[ExtendClient](./extend/ExtendClient.java)
 利用```DIP```的概念，将使用者可关闭的概念提出来，产生可用的IContainer接口，增加扩展的能力。
